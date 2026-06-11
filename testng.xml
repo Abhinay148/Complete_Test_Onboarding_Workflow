@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Provider Onboarding Suite">
+
+    <test name="Smoke Test">
+
+        <classes>
+
+            <class name="com.abhinay.automation.tests.SmokeTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
