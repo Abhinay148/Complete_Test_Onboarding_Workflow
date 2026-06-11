@@ -1,13 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
-<suite name="Provider Onboarding Suite">
+<suite name="Provider Suite">
 
-    <test name="Smoke Test">
+    <test name="Provider Tests">
 
         <classes>
-
-            <class name="com.abhinay.automation.tests.SmokeTest"/>
-
+            <class name="com.abhinay.automation.tests.AddProviderTest"/>
         </classes>
 
     </test>

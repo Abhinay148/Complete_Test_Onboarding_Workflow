@@ -1,0 +1,6 @@
+com\abhinay\automation\factory\PlaywrightFactory.class
+com\abhinay\automation\pages\DashboardPage.class
+com\abhinay\automation\pages\BasicInformationPage.class
+com\abhinay\automation\base\BasePage.class
+com\abhinay\automation\pages\ProvidersPage.class
+com\abhinay\automation\pages\LoginPage.class
